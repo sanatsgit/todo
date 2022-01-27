@@ -1,6 +1,6 @@
 from turtle import title
 import _tkinter
-import fcntl
+
 from flask import Flask, render_template,request,redirect
 from flask_sqlalchemy import SQLAlchemy
 from datetime import datetime
